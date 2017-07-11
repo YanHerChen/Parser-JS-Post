@@ -1,5 +1,3 @@
-package js_parser;
-
 public class PageManager {
 	private static int nowpage;
 	private static int end;
